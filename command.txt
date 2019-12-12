@@ -1,0 +1,3 @@
+Power Shell: Search-ADAccount -LockedOut > c:\zabbix\userlocked.txt
+
+Zabbix Conf: UserParameter=user.locked,type C:\zabbixuserlocked.txt | findstr /C:"SamAccountName" | gawk {print$3,$4,$5}

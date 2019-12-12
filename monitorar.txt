@@ -1,0 +1,4 @@
+DistinguishedName     : CN=Tatiana Nazuti Diniz,OU=OU_USUARIOS,DC=atlas,DC=local
+Name                  : Tatiana Nazuti Diniz
+SamAccountName        : financeiro
+UserPrincipalName     : financeiro@atlas.local
